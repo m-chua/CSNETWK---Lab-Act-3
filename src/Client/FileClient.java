@@ -1,3 +1,10 @@
+/**
+ * CSNETWK Lab Act 8
+ * Programming Pair #8
+ * 1. CHUA, MICOLE KEESHA ANG
+ * 2. ORTIZ, MA. CHINA MAPILI
+ */
+
 package Client;
 
 import java.net.*;
